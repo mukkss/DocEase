@@ -18,17 +18,17 @@
 ## 🖼️ **Screenshots**
 (Replace these placeholder images with actual ones later)  
 
-📌 *Diseases & Conditions:*  
-![Diseases & Conditions](images\Diseases & Conditions.png)  
+📌 *Visuals:*  
+![Diseases & Conditions](./images/Diseases%20&%20Conditions.png)  
 
-📌 *Medical Tests & Treatments*  
-![Medical Tests & Treatments](images\Medical Tests & Treatments.png)  
+ 
+![Medical Tests & Treatments](./images/Medical%20Tests%20&%20Treatments.png)  
 
-📌 *Preventive Medicine & Alternative Therapies:*  
-![Preventive Medicine & Alternative Therapies](images\Preventive Medicine & Alternative Therapies.png)
+ 
+![Preventive Medicine & Alternative Therapies](./images/Preventive%20Medicine%20&%20Alternative%20Therapies.png)
 
 📌 *Non Medical Example:*  
-![Science & Technology](images\Science & Technology.png)  
+![Science & Technology](./images/Science%20&%20Technology.png)  
 
 ---
 
