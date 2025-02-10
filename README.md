@@ -113,14 +113,7 @@ git push origin feature-branch
 ---
 
 ## 📩 **Contact**
-📧 Email: your.email@example.com  
-🌐 GitHub: [Your Profile](https://github.com/YOUR_USERNAME)  
+📧 Email: muksss1102@gmail.com 
+🌐 GitHub: [mukkss](https://github.com/mukkss)  
 
----
-
-### 📌 Notes:
-- **Update** the `YOUR_USERNAME` with your GitHub username.
-- Replace **sample images** with real ones in the `sample_images/` folder.
-- Modify the **contact details** if needed.
-
-Now you have a well-structured **README.md**! 🎉 Let me know if you need any modifications. 🚀🔥  
+---  
