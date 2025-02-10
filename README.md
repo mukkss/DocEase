@@ -15,10 +15,9 @@
 
 ---
 
-## 🖼️ **Screenshots**
-(Replace these placeholder images with actual ones later)  
+## 🖼️ **Visuals**
 
-📌 *Visuals:*  
+📌 *Medical Example:*  
 ![Diseases & Conditions](./images/Diseases%20&%20Conditions.png)  
 
  
